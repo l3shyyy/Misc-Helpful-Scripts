@@ -1,1 +1,1 @@
-﻿gpresult /h $home\Desktop\AppliedGPO.html /f
+﻿$DATE = (Get-Date).toString("yyyy-MM-dd"); gpresult /h "$home\Desktop\$DATE - AppliedGPO.html" /f
