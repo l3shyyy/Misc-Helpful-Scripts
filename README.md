@@ -1,7 +1,7 @@
 # Introduction
 A collection of Miscellaneous commands for System Administrators
 
-#GPOAudit<br />
+# GPOAudit<br />
 This is a script to generate an HTML file displaying currently configured GPO's applied to the signed on user. 
 
 Usage: <br />
